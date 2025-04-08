@@ -11,7 +11,7 @@ const MemverEnroll == () {
                 <option value ="busin">부산광역시</option>
             </select><br/><br/>
             <textarea name="mylife"></textarea>
-        </>
+        </>  
     )
 }
 
